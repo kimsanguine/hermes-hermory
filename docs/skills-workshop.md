@@ -14,7 +14,7 @@ AX랩/KDT | 비개발자와 초급 개발자 | 기본 155분, 선택 모듈 10�
 | 설치형 | 공식 저장소나 검토한 공개 저장소에서 추가하는 스킬 | `context7-cli`, `supabase`, `vercel-cli`, `hyperframes-cli`, `reverse-engineer-anything` |
 | 직접 만든 스킬 | 자신의 반복 업무 기준을 SKILL.md로 정리한 것. 공개하면 다른 사람도 설치 가능 | `hermes-memory-operations` |
 
-이 교안의 기준 환경은 Hermes입니다. 기존 수업 프로필 `jiwon`을 유지합니다. 다른 프로필로 시작했다면 모든 터미널 명령에서 `-p jiwon`을 빼고 현재 프로필을 쓰세요. Claude Code에서는 설치 경로와 사용 가능한 도구가 다르며, Hermes 전용 메모리 모듈을 그대로 적용하지 않습니다.
+이 교안의 기준 환경은 Hermes입니다. 기존 수업 프로필 `jiwon`을 유지합니다. 다른 프로필로 시작했다면 실제 ID를 확인하고 모든 `-p jiwon`을 `-p 실제ID`로 바꿉니다. `-p`를 생략하지 않으며 대화창의 `/status`로 대상 프로필을 확인합니다. Claude Code에서는 설치 경로와 사용 가능한 도구가 다르며, Hermes 전용 메모리 모듈을 그대로 적용하지 않습니다.
 
 수업 전 Hermes 대화, Node.js 22.13 이상과 npm, Supabase와 Vercel 계정 로그인을 준비합니다. 영상 렌더에는 브라우저와 FFmpeg도 필요합니다. 계정과 도구 자체의 최초 설치는 사전 준비입니다.
 
