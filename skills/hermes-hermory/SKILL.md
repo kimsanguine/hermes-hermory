@@ -1,11 +1,10 @@
 ---
-name: hermes-memory-operations
+name: hermes-hermory
 description: Save, edit, and audit active-profile Hermes memory.
-version: 0.1.0
 license: MIT
 ---
 
-# Hermes Memory Operations
+# hermes-hermory
 
 Use this skill when the user explicitly asks to save, change, remove, or audit persistent Hermes memory. A request to audit is read-only. Ordinary project work does not authorize new memory writes.
 
@@ -43,7 +42,7 @@ Memory stores durable facts and preferences. A skill stores a reusable procedure
 
 ## Five-minute Practice
 
-Use a dummy preference: “실습용 선호: 설명 뒤에 예시 한 개를 붙인다.” Show the proposed addition. After approval, save it and verify the relevant entry. Propose changing “예시 한 개” to “짧은 체크리스트”. After approval, update only that entry and verify it. Offer removal of the dummy entry when the exercise ends; do not remove it without authorization.
+Use a learner-chosen durable work principle, such as “사용을 막는 오류부터 해결하고 색과 간격은 나중에 다룬다.” Show the proposed addition. After approval, save and reread that specific entry. In a new session, apply it to the two feedback items “등록 버튼이 안 눌려요” and “카드 색이 밋밋해요”, citing only the relevant stored principle. If the user wants to add accessibility as a priority, propose replacing that one entry and verify it after approval. For a read-only audit, distinguish this durable principle from a temporary task. Offer removal if the learner no longer wants to keep the practice principle; do not remove it without authorization.
 
 ## Verification
 
