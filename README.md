@@ -42,7 +42,7 @@ flowchart LR
 
 ## 교안
 
-- [AI 에이전트 스킬 설치와 활용, 2~3시간](docs/skills-workshop.md)
+- [팀스파르타 Hermes 스킬 7개 설치와 활용, 실제 교안](https://teamsparta.habix.ai/teamsparta/10th/setup/hermes-skill-toolkit)
 - [설치와 실행 검증 범위](docs/verification.md)
 - 다음에 더 찾아볼 것: [Hermes Memory](https://hermes-agent.nousresearch.com/docs/user-guide/features/memory)
 
