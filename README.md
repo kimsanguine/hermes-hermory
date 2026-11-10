@@ -42,12 +42,10 @@ flowchart LR
 
 ## 교안
 
-- [팀스파르타 Hermes 스킬 7개 설치와 활용, 실제 교안](https://teamsparta.habix.ai/teamsparta/10th/setup/hermes-skill-toolkit)
+- [팀스파르타 Hermes 스킬 6개 설치와 활용, 실제 교안](https://teamsparta.habix.ai/teamsparta/10th/setup/hermes-skill-toolkit)
 - [설치와 실행 검증 범위](docs/verification.md)
 - 다음에 더 찾아볼 것: [Hermes Memory](https://hermes-agent.nousresearch.com/docs/user-guide/features/memory)
 
 ## 출처와 라이선스
 
 사용자의 기존 `hermes-memory-operations` 운영 원칙에서 현재 프로필 확인, 읽고 수정하기, 용량 확인, 읽기 전용 감사를 추려 공개 교육용으로 재작성했습니다. 개인 환경의 경로, 운영 수치, 다른 프로필 정보와 외부 메모리 서비스 설정은 포함하지 않습니다. MIT 라이선스로 배포합니다.
-
-`dogfood`는 이 저장소에서 배포하지 않습니다. Hermes 기본 제공 스킬의 설치 여부를 확인하고 사용합니다.
