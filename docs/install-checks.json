@@ -1,0 +1,66 @@
+[
+  {
+    "name": "context7-cli",
+    "identifier": "upstash/context7/skills/context7-cli",
+    "api_exit": 0,
+    "installed": true,
+    "skill_sha256": [
+      "9b4320c8932ac6fc499bc7d5684024dc9c09c3a38e1cb22f5ad5dcc60d756fda"
+    ],
+    "verification_method": "Hermes do_install internal function, isolated HERMES_HOME",
+    "full_cli_verified": false
+  },
+  {
+    "name": "supabase",
+    "identifier": "supabase/agent-skills/skills/supabase",
+    "api_exit": 0,
+    "installed": true,
+    "skill_sha256": [
+      "697e0e949f97621c6fc1784169eb3ccbf673747d6bb8299a52962d3d84d93dc6"
+    ],
+    "verification_method": "Hermes do_install internal function, isolated HERMES_HOME",
+    "full_cli_verified": false
+  },
+  {
+    "name": "vercel-cli",
+    "identifier": "vercel/vercel/skills/vercel-cli",
+    "api_exit": 0,
+    "installed": true,
+    "skill_sha256": [
+      "e5091f0000bdf245dd1e917ed3ea4aa05ca8687abef1830c5208ee1dad8ed7b8"
+    ],
+    "verification_method": "Hermes do_install internal function, isolated HERMES_HOME",
+    "full_cli_verified": false
+  },
+  {
+    "name": "hermes-memory-operations",
+    "identifier": "kimsanguine/hermes-memory-operations/skills/hermes-memory-operations",
+    "api_exit": 0,
+    "installed": true,
+    "skill_sha256": [
+      "6bd88d0f8ebbeb328da5ea7deb200ffc16f2277bbc4c1d08f5c2b36d8930fee8"
+    ],
+    "verification_method": "Hermes do_install internal function, isolated HERMES_HOME",
+    "full_cli_verified": false
+  },
+  {
+    "name": "hyperframes-cli",
+    "identifier": "heygen-com/hyperframes/skills/hyperframes-cli",
+    "api_exit": 1,
+    "installed": false,
+    "skill_sha256": [],
+    "verification_method": "Hermes do_install internal function, isolated HERMES_HOME",
+    "full_cli_verified": false
+  },
+  {
+    "name": "reverse-engineer-anything",
+    "identifier": "morluto/rea/.agents/skills/reverse-engineer-anything",
+    "api_exit": 0,
+    "installed": true,
+    "skill_sha256": [
+      "4b8689a602732f7b731794dd8c63745c8bc533bb4f75982bd5c65f58e4e5e50e"
+    ],
+    "verification_method": "Hermes do_install internal function, isolated HERMES_HOME",
+    "full_cli_verified": false
+  }
+]
