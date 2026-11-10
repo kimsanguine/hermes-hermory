@@ -180,7 +180,7 @@ vercel deploy
 설치와 확인, 터미널. 설치 내부 함수 검증, CLI 런처 완주는 확인 필요:
 
 ```bash
-hermes -p jiwon skills install kimsanguine/hermes-memory-operations/skills/hermes-memory-operations
+hermes -p jiwon skills install kimsanguine/hermes-hemory/skills/hermes-memory-operations
 hermes -p jiwon skills list
 ```
 
@@ -204,7 +204,7 @@ hermes -p jiwon skills list
 
 막히면: 용량 초과 시 기존 기억을 자동으로 지우지 말고 중복 항목과 정리안을 먼저 받습니다. 새 세션의 메모리 스냅샷과 현재 저장 상태가 다를 수 있으니 실제 저장 상태를 확인합니다. `/skills approval on`은 스킬 파일 쓰기 승인 설정이며 메모리 변경 승인과는 다릅니다.
 
-다음에 더 찾아볼 것: [공개 Hermes Memory Operations 저장소](https://github.com/kimsanguine/hermes-memory-operations).
+다음에 더 찾아볼 것: [공개 Hermes Memory Operations 저장소](https://github.com/kimsanguine/hermes-hemory).
 
 ## 5. hyperframes-cli: 프로젝트를 소개하는 짧은 영상 만들기 (15분)
 

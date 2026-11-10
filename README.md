@@ -10,8 +10,8 @@
 
 ```bash
 hermes -p jiwon skills list
-hermes -p jiwon skills inspect kimsanguine/hermes-memory-operations/skills/hermes-memory-operations
-hermes -p jiwon skills install kimsanguine/hermes-memory-operations/skills/hermes-memory-operations
+hermes -p jiwon skills inspect kimsanguine/hermes-hemory/skills/hermes-memory-operations
+hermes -p jiwon skills install kimsanguine/hermes-hemory/skills/hermes-memory-operations
 hermes -p jiwon skills list
 ```
 
