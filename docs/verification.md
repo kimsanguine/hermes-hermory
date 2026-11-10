@@ -48,3 +48,10 @@ HyperFrames 최신 소스 커밋 1a758fd60fac90cd3ce370f5af1cb47e4b610128에서 
 ## 저장소 이름 변경
 
 사용자 요청으로 GitHub 저장소명을 hermes-hemory로 바꿨습니다. 스킬 이름 hermes-memory-operations와 description은 유지했습니다. README와 교안의 현재 설치 명령과 링크, origin URL는 새 저장소명으로 바꿨습니다. install-checks.json은 이름 변경 전 설치의 역사적 기록이며 덮어쓰지 않습니다. dogfood는 builtin이므로 별도 저장소와 복사본을 추가하지 않았습니다.
+
+
+## 2026-11-10 이름과 실습 사례 개편
+
+사용자 지시로 저장소와 스킬 폴더/프런트매터 이름을 hermes-hermory로 통일했다. 현재 설치 식별자는 kimsanguine/hermes-hermory/skills/hermes-hermory다. description은51자다. Codex skill-creator quick_validate 통과,기존환경Python을사용한새HERMES_HOME의Hermes do_install내부함수로설치SAFE와원문SHA74f1b1fac06631f084be6fddee348f3adefd0349eaaacb2ff6b4cc917e78e78d일치를확인했다. 실제메모리쓰기와기존프로필변경은없다. 전체CLI런처완주와는구분한다.
+
+교안은‘Hermes 스킬로 조사부터 웹 배포까지 맡기기’로바꾸고전용link-shelf폴더설정을제거했다. 피드백보드·스터디질문함으로프롬프트를교체했으며독립평가와화면/배포기록은웹저장소의docs/courseware/hermes-practical-skills-20261110에서관리한다.
